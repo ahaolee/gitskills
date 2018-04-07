@@ -2,6 +2,7 @@ def calculate(number):
     result = 0
     i = 1
     while i <= number:
+<<<<<<< HEAD
         result = i + result
         i = i + 1
     return result
