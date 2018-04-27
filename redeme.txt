@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 Git can merge branches.
 This program add a and b func.
 On the Apr 7 add c and d func.
+My name is Lee ahao
+And I interest you item.
